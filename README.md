@@ -92,6 +92,10 @@
 
 - [Twig Templating for Friendly Frontend Devs](https://knpuniversity.com/screencast/twig)
 
+## Regular Expressions
+
+- [Understand Regular Expressions](https://laracasts.com/series/understanding-regular-expressions)
+
 ## PhpStorm
 
 - [Be Awesome in PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
