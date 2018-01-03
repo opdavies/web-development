@@ -1,4 +1,6 @@
-# Learning Links
+# Web Development
+
+A collection of useful links and web development resources.
 
 ## Drupal
 
