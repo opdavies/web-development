@@ -75,6 +75,7 @@ A collection of useful links and web development resources.
 ## Linux
 
 - [crontab.guru](https://crontab.guru)
+- [Servers for Hackers](https://serversforhackers.com)
 
 ## Docker
 
@@ -84,6 +85,7 @@ A collection of useful links and web development resources.
 ## Ansible
 
 - [Ansible for Automation!](https://knpuniversity.com/screencast/ansible) - video series by KNP University
+- [Ansible video series on SFH](https://serversforhackers.com/s/ansible)
 - [Animated Deployment with Ansistrano](https://knpuniversity.com/screencast/ansistrano) - video series by KNP University
 
 ## Fabric
