@@ -86,6 +86,7 @@ A collection of useful links and web development resources.
 ## Ansible
 
 - [Ansible for Automation!](https://knpuniversity.com/screencast/ansible) - video series by KNP University
+- [Ansible for DevOps](https://github.com/geerlingguy/ansible-for-devops) by Jeff Geerling
 - [Ansible video series on SFH](https://serversforhackers.com/s/ansible)
 - [Animated Deployment with Ansistrano](https://knpuniversity.com/screencast/ansistrano) - video series by KNP University
 - [Jeff Geerling Ansible playlist](https://www.youtube.com/playlist?list=PL2_OBreMn7FplshFCWYlaN2uS8et9RjNG)
