@@ -65,6 +65,7 @@ A collection of useful links and web development resources.
 
 ## CSS
 
+- [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns)
 - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ## Tailwind CSS
