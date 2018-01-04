@@ -61,6 +61,8 @@ A collection of useful links and web development resources.
 
 ## Composer
 
+- [A few composer tips](https://akrabat.com/a-few-composer-tips) by Rob Allen
+- [Converting a Composer dependency to git for editing](https://akrabat.com/converting-a-composer-dependency-to-git-for-editing) by Rob Allen
 - [Wonderful World of Composer](https://knpuniversity.com/screencast/composer)
 
 ## CSS
