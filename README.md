@@ -61,6 +61,7 @@ A collection of useful links and web development resources.
 
 ## Composer
 
+- [Composer: installing package from local git repository](http://marekkalnik.tumblr.com/post/22929686367/composer-installing-package-from-local-git) by Marek Kalnik
 - [A few composer tips](https://akrabat.com/a-few-composer-tips) by Rob Allen
 - [Converting a Composer dependency to git for editing](https://akrabat.com/converting-a-composer-dependency-to-git-for-editing) by Rob Allen
 - [Wonderful World of Composer](https://knpuniversity.com/screencast/composer)
