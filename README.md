@@ -73,6 +73,7 @@ A collection of useful links and web development resources.
 
 ## Tailwind CSS
 
+- [Awesome Tailwind CSS](https://github.com/merchedhq/awesome-tailwindcss)
 - [Rebuilding Coinbase with Tailwind CSS](https://youtu.be/7gX_ApBeSpQ)
 - [Rebuilding Laravel.io with Tailwind CSS](https://youtu.be/ZrRRMBaz5Z0)
 
