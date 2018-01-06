@@ -27,6 +27,7 @@ A collection of useful links and web development resources.
 ## Symfony
 
 - [Learn Symfony 3](https://knpuniversity.com/tracks/symfony)
+- [Managing CSS and JavaScript](https://symfony.com/doc/current/frontend.html) (links to Webpack Encore documentation)
 
 ## Laravel
 
