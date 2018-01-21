@@ -11,6 +11,7 @@ A collection of useful links and web development resources.
 ### Drupal 7
 
 - [Drupal SimpleTest coding standards](https://www.drupal.org/docs/develop/coding-standards/drupal-simpletest-coding-standards)
+- [How to write a custom Views handler](https://kalamuna.atlassian.net/wiki/spaces/KALA/pages/20512879/Custom+Views+Field+Handler)
 - [Simpletest Testing tutorial (Drupal 7)](https://www.drupal.org/docs/7/testing/simpletest-testing-tutorial-drupal-7)
 
 ### Drupal 8
