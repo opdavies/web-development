@@ -88,7 +88,7 @@ A collection of useful links and web development resources.
 ## Docker
 
 - [Docker for Developers](https://leanpub.com/dockerfordevs)
-- [Drupal Development with Docker](https://drupalize.me/series/drupal-development-docker)
+- [Drupal Development with Docker](https://drupalize.me/series/drupal-development-docker) - a Drupalize.me tutorial series by Tess Flynn (aka socketwench)
 - [Shipping Docker](https://serversforhackers.com/shipping-docker)
 
 ## Ansible
