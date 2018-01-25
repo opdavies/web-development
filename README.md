@@ -88,6 +88,7 @@ A collection of useful links and web development resources.
 ## Docker
 
 - [Docker for Developers](https://leanpub.com/dockerfordevs)
+- [Docker for PHP Developers](https://bitpress.io/docker-for-php-developers/#contents) - a guide that will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
 - [Drupal Development with Docker](https://drupalize.me/series/drupal-development-docker) - a Drupalize.me tutorial series by Tess Flynn (aka socketwench)
 - [Shipping Docker](https://serversforhackers.com/shipping-docker)
 
