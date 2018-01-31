@@ -50,6 +50,10 @@ A collection of useful links and web development resources.
 - [Learn OO](https://knpuniversity.com/tracks/oo)
 - [PHP Namespaces in 120 Seconds](https://knpuniversity.com/screencast/php-namespaces-in-120-seconds)
 
+## Nginx
+
+- [PHP Apps in a Subdirectory in Nginx](https://serversforhackers.com/c/nginx-php-in-subdirectory) - a "Servers for Hackers" video
+
 ## Git
 
 - [Getting Git](https://gettinggit.com) - A comprehensive video course from git init to Git Master.
