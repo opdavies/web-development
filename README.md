@@ -104,6 +104,7 @@ A collection of useful links and web development resources.
 - [Animated Deployment with Ansistrano](https://knpuniversity.com/screencast/ansistrano) - video series by KNP University
 - [Jeff Geerling Ansible playlist](https://www.youtube.com/playlist?list=PL2_OBreMn7FplshFCWYlaN2uS8et9RjNG)
 - [Ansible: iterate over hash in template](https://medium.com/@ohbytheway/ansible-iterate-over-hash-in-template-54bfcd033279)
+- [Automated, large-scale deployments with Ansible's pull-mode](https://www.stavros.io/posts/automated-large-scale-deployments-ansibles-pull-mo)
 
 ## Fabric
 
